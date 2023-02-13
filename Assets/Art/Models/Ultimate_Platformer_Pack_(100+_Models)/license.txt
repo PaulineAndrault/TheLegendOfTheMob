@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ultimate Platformer Pack (100+ Models)
+* source:	https://sketchfab.com/3d-models/ultimate-platformer-pack-100-models-8e016bc1b79f4c6aa58d430daa299f1e
+* author:	quaternius (https://sketchfab.com/quaternius)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ultimate Platformer Pack (100+ Models)" (https://sketchfab.com/3d-models/ultimate-platformer-pack-100-models-8e016bc1b79f4c6aa58d430daa299f1e) by quaternius (https://sketchfab.com/quaternius) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
